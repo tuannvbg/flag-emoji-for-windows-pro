@@ -13,8 +13,8 @@
     <a href="https://github.com/tuannvbg/flag-emoji-for-windows-pro/subscription">
       <img src="https://img.shields.io/github/watchers/tuannvbg/flag-emoji-for-windows-pro?color=green&label=Watchers&style=flat" alt="Watchers"/>
     </a>
-    <a href="https://tuannvbg.github.io/flag-emoji-for-windows-pro">
-      <img src="https://img.shields.io/badge/tuannvbg/flag-emoji-for-windows-pro-link?style=flat&label=my%20blog" alt="Read my landing page"/>
+    <a href="https://github.com/tuannvbg/flag-emoji-for-windows-pro/forks">
+      <img src="https://img.shields.io/github/forks/tuannvbg/flag-emoji-for-windows-pro?label=Forks&style=flat-square" alt="Forks"/>
     </a>
 </p>
 </div>
