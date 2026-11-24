@@ -4,19 +4,19 @@
 ![262 Flags & Unicode 18.0 Showcase](assets/full_showcase.png)
 <div align="center">
   <p>
-    <a href="https://github.com">
-      <img src="https://shields.io" alt="Downloads"/>
+    <a href="https://github.com/tuannvbg/flag-emoji-for-windows-pro/releases">
+      <img src="https://img.shields.io/github/downloads/tuannvbg/flag-emoji-for-windows-pro/total?label=Downloads&style=flat" alt="Downloads"/>
     </a>
-    <a href="https://github.com">
-      <img src="https://shields.io" alt="Stars"/>
+    <a href="https://github.com/tuannvbg/flag-emoji-for-windows-pro/stargazers">
+      <img src="https://img.shields.io/github/stars/tuannvbg/flag-emoji-for-windows-pro?color=green&label=Stars&style=flat" alt="Stars"/>
     </a>
-    <a href="https://github.com">
-      <img src="https://shields.io" alt="Watchers"/>
+    <a href="https://github.com/tuannvbg/flag-emoji-for-windows-pro/subscription">
+      <img src="https://img.shields.io/github/watchers/tuannvbg/flag-emoji-for-windows-pro?color=green&label=Watchers&style=flat" alt="Watchers"/>
     </a>
-    <a href="https://github.io">
-      <img src="https://shields.io" alt="Live Showcase"/>
+    <a href="https://tuannvbg.github.io/flag-emoji-for-windows-pro">
+      <img src="https://img.shields.io/badge/tuannvbg/flag-emoji-for-windows-pro-link?style=flat&label=my%20blog" alt="Read my landing page"/>
     </a>
-  </p>
+</p>
 </div>
 
 > 🌐 **[Live Showcase (4 Languages)](https://github.io)** • 🔤 **Unicode 1.0 → 18.0** • 🪟 **Win11 Pure Hybrid (`13.59 MB`)** • 🖥️ **Ultra HD 8-Strike (`20→192px`)** • 📱 **Honor / Huawei `.hwt` Ready** • ✅ **Solves Issue #3**
