@@ -2,6 +2,22 @@
 **🌐 Language / Ngôn ngữ / 语言 / Язык:**  
 🇺🇸 **English** | 🇻🇳 [Tiếng Việt](README.vi.md) | 🇨🇳 [中文 (Chinese)](README.zh.md) | 🇷🇺 [Русский (Russian)](README.ru.md)
 ![262 Flags & Unicode 18.0 Showcase](assets/full_showcase.png)
+<div align="center">
+  <p>
+    <a href="https://github.com">
+      <img src="https://shields.io" alt="Downloads"/>
+    </a>
+    <a href="https://github.com">
+      <img src="https://shields.io" alt="Stars"/>
+    </a>
+    <a href="https://github.com">
+      <img src="https://shields.io" alt="Watchers"/>
+    </a>
+    <a href="https://github.io">
+      <img src="https://shields.io" alt="Live Showcase"/>
+    </a>
+  </p>
+</div>
 
 > 🌐 **[Live Showcase (4 Languages)](https://github.io)** • 🔤 **Unicode 1.0 → 18.0** • 🪟 **Win11 Pure Hybrid (`13.59 MB`)** • 🖥️ **Ultra HD 8-Strike (`20→192px`)** • 📱 **Honor / Huawei `.hwt` Ready** • ✅ **Solves Issue #3**
 
