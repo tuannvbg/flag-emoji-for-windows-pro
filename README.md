@@ -3,12 +3,8 @@
 🇺🇸 **English** | 🇻🇳 [Tiếng Việt](README.vi.md) | 🇨🇳 [中文 (Chinese)](README.zh.md) | 🇷🇺 [Русский (Russian)](README.ru.md)
 ![262 Flags & Unicode 18.0 Showcase](assets/full_showcase.png)
 
-[![Live Showcase](https://shields.io)](https://github.io)
-[![Unicode](https://shields.io)](https://unicode.org)
-[![Windows 11](https://shields.io)](#)
-[![Ultra HD](https://shields.io)](#)
-[![Android / Honor](https://shields.io)](#)
-[![Solved Issue #3](https://shields.io)](https://github.com)
+> 🌐 **[Live Showcase (4 Languages)](https://github.io)** • 🔤 **Unicode 1.0 → 18.0** • 🪟 **Win11 Pure Hybrid (`13.59 MB`)** • 🖥️ **Ultra HD 8-Strike (`20→192px`)** • 📱 **Honor / Huawei `.hwt` Ready** • ✅ **Solves Issue #3**
+
 
 **The Ultimate All-in-One Emoji Engine for Windows 11, Windows 10 & Android / Honor MagicOS.**  
 Combines native Windows 11 **3D `COLRv1`** vectors with **7,079+ crisp `CBDT/CBLC` bitmaps**, **all 262 country & subdivision flags**, **3,136 native multi-skin-tone ZWJ sequences**, and **full Unicode 17.0 & 18.0** support in a clean, modular binary pipeline.
