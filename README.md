@@ -115,3 +115,13 @@ This project was made possible thanks to the incredible open-source libraries, d
 ### 3. AI Assistants
 * **Google Gemini**, **xAI Grok**, **OpenAI ChatGPT**, **ByteDance Dola AI**, and **Microsoft Copilot** — invaluable companions for analyzing OpenType binary structures, optimizing multi-threaded algorithms, and real-world cross-platform testing on Windows and Android.
 
+## ⚖️ Artwork Copyright & Fair Use Attribution
+
+* **Source Code (`MIT License`):** All Python build scripts, binary table manipulators, and web showcase files in this repository are licensed under the **MIT License**.
+* **Emoji Artwork Trademarks:**
+  * **Windows 11 Fluent 3D Emoji** (`Segoe UI Emoji`) artwork belongs to **Microsoft Corporation**.
+  * **Noto Color Emoji** & **Blobmoji** artwork belongs to **Google LLC** (Apache 2.0 / SIL OFL).
+  * **Twemoji** artwork belongs to **Twitter / X Corp** & **jdecked/twemoji** contributors (CC-BY 4.0).
+  * **OpenMoji** artwork belongs to **OpenMoji** (CC-BY-SA 4.0).
+  * **Proprietary Emoji Sets (Future Research & Educational Compatibility):** Any references or experimental tools supporting **Apple Color Emoji** (Apple Inc.), **JoyPixels** (JoyPixels Inc.), **Samsung One UI Emoji** (Samsung Electronics), **WhatsApp Emoji**, or **Facebook Emoji** are strictly intended for **personal educational, interoperability, and font-engineering research purposes only**. All respective trademarks and artwork copyrights belong solely to their original owners.
+
