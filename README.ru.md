@@ -3,12 +3,23 @@
 **🌐 Язык / Language / Ngôn ngữ / 语言:**  
 🇺🇸 [English](README.md) | 🇻🇳 [Tiếng Việt](README.vi.md) | 🇨🇳 [中文 (Chinese)](README.zh.md) | 🇷🇺 **Русский (Russian)**
 
-[![Live Showcase](https://shields.io🌐_Онлайн_превью-4_языка-38bdf8.svg)](https://github.io)
-[![Unicode](https://shields.ioUnicode-1.0_до_18.0-blue.svg)](https://unicode.org)
-[![Windows 11](https://shields.ioWindows_11-Pure_Hybrid_13.59_МБ-0078D6.svg)](#)
-[![Ultra HD](https://shields.ioApple_%2B_Noto-8_уровней_20→192px-818cf8.svg)](#)
-[![Android / Honor](https://shields.ioHonor_%2F_Huawei_MagicOS-.hwt_Тема_готова-success.svg)](#)
-[![Solved Issue #3](https://shields.ioChasmical_Issue_%233-Решено_на_100%25-brightgreen.svg)](https://github.com)
+![262 Flags & Unicode 18.0 Showcase](assets/full_showcase.png)
+<div align="center">
+  <p>
+    <a href="https://github.com/tuannvbg/flag-emoji-for-windows-pro/releases">
+      <img src="https://img.shields.io/github/downloads/tuannvbg/flag-emoji-for-windows-pro/total?label=Downloads&style=flat" alt="Downloads"/>
+    </a>
+    <a href="https://github.com/tuannvbg/flag-emoji-for-windows-pro/stargazers">
+      <img src="https://img.shields.io/github/stars/tuannvbg/flag-emoji-for-windows-pro?color=green&label=Stars&style=flat" alt="Stars"/>
+    </a>
+    <a href="https://github.com/tuannvbg/flag-emoji-for-windows-pro/subscription">
+      <img src="https://img.shields.io/github/watchers/tuannvbg/flag-emoji-for-windows-pro?color=green&label=Watchers&style=flat" alt="Watchers"/>
+    </a>
+    <a href="https://github.com/tuannvbg/flag-emoji-for-windows-pro/forks">
+      <img src="https://img.shields.io/github/forks/tuannvbg/flag-emoji-for-windows-pro?label=Forks&style=flat-square" alt="Forks"/>
+    </a>
+</p>
+</div>
 
 **Универсальный движок эмодзи для Windows 11, Windows 10 и Android / Honor MagicOS.**  
 Объединяет нативные векторы **3D `COLRv1`** из Windows 11 с **7 079+ четкими битмапами `CBDT/CBLC`**, **всеми 262 флагами стран и регионов**, **3 136 нативными ZWJ-последовательностями с разными оттенками кожи** и полной поддержкой **Unicode 17.0 и 18.0**.
@@ -102,3 +113,14 @@ python make_apple_multistrike.py seguiemj_192_final.ttf Win11_Ultra8Strikes_3D.t
 
 ### 3. ИИ-помощники
 * **Google Gemini**, **xAI Grok**, **OpenAI ChatGPT**, **ByteDance Dola AI** и **Microsoft Copilot** — незаменимые помощники в анализе бинарных структур OpenType, оптимизации многопоточных алгоритмов и реальном кроссплатформенном тестировании на Windows и Android.
+
+* ## ⚖️ Авторские права на графику и исследовательское назначение
+
+* **Исходный код (`MIT License`):** Все Python-скрипты сборки, инструменты работы с бинарными таблицами OpenType и веб-интерфейс в данном репозитории распространяются под лицензией **MIT License**.
+* **Права на оригинальную графику эмодзи:**
+  * Графика **Windows 11 Fluent 3D Emoji** (`Segoe UI Emoji`) принадлежит **Microsoft Corporation**.
+  * Графика **Noto Color Emoji** и **Blobmoji** принадлежит **Google LLC** (Apache 2.0 / SIL OFL).
+  * Графика **Twemoji** принадлежит **Twitter / X Corp** и участникам **jdecked/twemoji** (CC-BY 4.0).
+  * Графика **OpenMoji** принадлежит **OpenMoji** (CC-BY-SA 4.0).
+  * **Проприетарные наборы эмодзи (перспективные исследования и обучение):** Любые будущие экспериментальные инструменты совместимости с **Apple Color Emoji** (Apple Inc.), **JoyPixels** (JoyPixels Inc.), **Samsung One UI Emoji** (Samsung Electronics), **WhatsApp Emoji** или **Facebook Emoji** предназначены **исключительно для личного обучения, тестирования совместимости и исследования инженерии шрифтов**. Все товарные знаки и авторские права на графику принадлежат их законным правообладателям.
+
