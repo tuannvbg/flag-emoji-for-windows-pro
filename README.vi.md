@@ -3,12 +3,23 @@
 **🌐 Ngôn ngữ / Language / 语言 / Язык:**  
 🇺🇸 [English](README.md) | 🇻🇳 **Tiếng Việt** | 🇨🇳 [中文 (Chinese)](README.zh.md) | 🇷🇺 [Русский (Russian)](README.ru.md)
 
-[![Live Showcase](https://shields.io🌐_Trang_Giới_Thiệu-4_Ngôn_Ngữ-38bdf8.svg)](https://github.io)
-[![Unicode](https://shields.ioUnicode-1.0_đến_18.0-blue.svg)](https://unicode.org)
-[![Windows 11](https://shields.ioWindows_11-Pure_Hybrid_13.59_MB-0078D6.svg)](#)
-[![Ultra HD](https://shields.ioApple_%2B_Noto-8_Mức_20→192px-818cf8.svg)](#)
-[![Android / Honor](https://shields.ioHonor_%2F_Huawei_MagicOS-.hwt_Sẵn_Sàng-success.svg)](#)
-[![Solved Issue #3](https://shields.ioChasmical_Issue_%233-Đã_Khắc_Phục_100%25-brightgreen.svg)](https://github.com)
+![262 Flags & Unicode 18.0 Showcase](assets/full_showcase.png)
+<div align="center">
+  <p>
+    <a href="https://github.com/tuannvbg/flag-emoji-for-windows-pro/releases">
+      <img src="https://img.shields.io/github/downloads/tuannvbg/flag-emoji-for-windows-pro/total?label=Downloads&style=flat" alt="Downloads"/>
+    </a>
+    <a href="https://github.com/tuannvbg/flag-emoji-for-windows-pro/stargazers">
+      <img src="https://img.shields.io/github/stars/tuannvbg/flag-emoji-for-windows-pro?color=green&label=Stars&style=flat" alt="Stars"/>
+    </a>
+    <a href="https://github.com/tuannvbg/flag-emoji-for-windows-pro/subscription">
+      <img src="https://img.shields.io/github/watchers/tuannvbg/flag-emoji-for-windows-pro?color=green&label=Watchers&style=flat" alt="Watchers"/>
+    </a>
+    <a href="https://github.com/tuannvbg/flag-emoji-for-windows-pro/forks">
+      <img src="https://img.shields.io/github/forks/tuannvbg/flag-emoji-for-windows-pro?label=Forks&style=flat-square" alt="Forks"/>
+    </a>
+</p>
+</div>
 
 **Bộ công cụ toàn diện giúp mang trọn bộ 262 quốc kỳ, hiệu ứng Fluent 3D của Windows 11 và chuẩn Unicode 17.0 / 18.0 lên Windows 11, Windows 10 và điện thoại Honor / Huawei (MagicOS / EMUI).**  
 Kết hợp giữa vector **3D `COLRv1`** nguyên bản của Microsoft với **7.079+ ảnh bitmap `CBDT/CBLC`** sắc nét, **3.136 tổ hợp gia đình/cặp đôi ZWJ đa tông da**, trong một quy trình xử lý nhị phân gọn gàng, sạch sẽ.
@@ -98,6 +109,16 @@ Dự án được hoàn thiện nhờ sự đóng góp tuyệt vời của các 
 ### 2. Công Cụ Lập Trình & Bộ Gõ (PC & Mobile)
 * **Windows PC:** **Notepad++** (soạn thảo & chỉnh sửa mã nguồn tốc độ cao) & **UniKey** (bộ gõ tiếng Việt chuẩn mực).
 * **Android Mobile:** **Termux** & **Pydroid 3** (môi trường dòng lệnh & chạy Python trực tiếp trên điện thoại để kiểm thử tức thì), cùng **Vikey** & **Laban Key** (hỗ trợ nhập liệu trong suốt quá trình nghiên cứu và thử nghiệm).
+
+## ⚖️ Bản Quyền Hình Ảnh & Tuyên Bố Nghiên Cứu
+
+* **Mã nguồn công cụ (`MIT License`):** Toàn bộ các script Python, bộ xử lý bảng nhị phân OpenType và giao diện web trong kho mã này được phát hành theo giấy phép mã nguồn mở **MIT License**.
+* **Bản quyền đồ họa Emoji gốc:**
+  * Đồ họa **Windows 11 Fluent 3D Emoji** (`Segoe UI Emoji`) thuộc bản quyền của **Microsoft Corporation**.
+  * Đồ họa **Noto Color Emoji** & **Blobmoji** thuộc bản quyền của **Google LLC** (Apache 2.0 / SIL OFL).
+  * Đồ họa **Twemoji** thuộc bản quyền của **Twitter / X Corp** & cộng đồng **jdecked/twemoji** (CC-BY 4.0).
+  * Đồ họa **OpenMoji** thuộc bản quyền của **OpenMoji** (CC-BY-SA 4.0).
+  * **Các bộ Emoji nguồn đóng (Định hướng mở rộng cho Học tập & Nghiên cứu):** Mọi công cụ thử nghiệm tương thích với **Apple Color Emoji** (Apple Inc.), **JoyPixels** (JoyPixels Inc.), **Samsung One UI Emoji** (Samsung Electronics), **WhatsApp Emoji** hay **Facebook Emoji** trong tương lai chỉ phục vụ **mục đích học tập cá nhân, kiểm thử tương thích và nghiên cứu kỹ thuật cấu trúc font**. Toàn bộ nhãn hiệu và bản quyền thiết kế gốc thuộc về các chủ sở hữu tương ứng.
 
 ### 3. Các Trợ Lý AI Đồng Hành
 * **Google Gemini**, **xAI Grok**, **OpenAI ChatGPT**, **ByteDance Dola AI** và **Microsoft Copilot** — những người bạn đồng hành đắc lực trong việc phân tích cấu trúc nhị phân OpenType, tối ưu thuật toán đa luồng và kiểm thử thực tế trên cả Windows lẫn Android.
