@@ -110,6 +110,9 @@ Dự án được hoàn thiện nhờ sự đóng góp tuyệt vời của các 
 * **Windows PC:** **Notepad++** (soạn thảo & chỉnh sửa mã nguồn tốc độ cao) & **UniKey** (bộ gõ tiếng Việt chuẩn mực).
 * **Android Mobile:** **Termux** & **Pydroid 3** (môi trường dòng lệnh & chạy Python trực tiếp trên điện thoại để kiểm thử tức thì), cùng **Vikey** & **Laban Key** (hỗ trợ nhập liệu trong suốt quá trình nghiên cứu và thử nghiệm).
 
+### 3. Các Trợ Lý AI Đồng Hành
+* **Google Gemini**, **xAI Grok**, **OpenAI ChatGPT**, **ByteDance Dola AI** và **Microsoft Copilot** — những người bạn đồng hành đắc lực trong việc phân tích cấu trúc nhị phân OpenType, tối ưu thuật toán đa luồng và kiểm thử thực tế trên cả Windows lẫn Android.
+
 ## ⚖️ Bản Quyền Hình Ảnh & Tuyên Bố Nghiên Cứu
 
 * **Mã nguồn công cụ (`MIT License`):** Toàn bộ các script Python, bộ xử lý bảng nhị phân OpenType và giao diện web trong kho mã này được phát hành theo giấy phép mã nguồn mở **MIT License**.
@@ -119,7 +122,4 @@ Dự án được hoàn thiện nhờ sự đóng góp tuyệt vời của các 
   * Đồ họa **Twemoji** thuộc bản quyền của **Twitter / X Corp** & cộng đồng **jdecked/twemoji** (CC-BY 4.0).
   * Đồ họa **OpenMoji** thuộc bản quyền của **OpenMoji** (CC-BY-SA 4.0).
   * **Các bộ Emoji nguồn đóng (Định hướng mở rộng cho Học tập & Nghiên cứu):** Mọi công cụ thử nghiệm tương thích với **Apple Color Emoji** (Apple Inc.), **JoyPixels** (JoyPixels Inc.), **Samsung One UI Emoji** (Samsung Electronics), **WhatsApp Emoji** hay **Facebook Emoji** trong tương lai chỉ phục vụ **mục đích học tập cá nhân, kiểm thử tương thích và nghiên cứu kỹ thuật cấu trúc font**. Toàn bộ nhãn hiệu và bản quyền thiết kế gốc thuộc về các chủ sở hữu tương ứng.
-
-### 3. Các Trợ Lý AI Đồng Hành
-* **Google Gemini**, **xAI Grok**, **OpenAI ChatGPT**, **ByteDance Dola AI** và **Microsoft Copilot** — những người bạn đồng hành đắc lực trong việc phân tích cấu trúc nhị phân OpenType, tối ưu thuật toán đa luồng và kiểm thử thực tế trên cả Windows lẫn Android.
 
