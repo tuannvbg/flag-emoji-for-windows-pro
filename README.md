@@ -1,6 +1,7 @@
 # 🚀 Flag Emoji for Windows Pro (`COLRv1` + `CBDT` Hybrid Engine)
 **🌐 Language / Ngôn ngữ / 语言 / Язык:**  
 🇺🇸 **English** | 🇻🇳 [Tiếng Việt](README.vi.md) | 🇨🇳 [中文 (Chinese)](README.zh.md) | 🇷🇺 [Русский (Russian)](README.ru.md)
+![262 Flags & Unicode 18.0 Showcase](assets/full_showcase.png)
 
 [![Live Showcase](https://shields.io🌐_Live_Showcase-4_Languages-38bdf8.svg)](https://github.io)
 [![Unicode](https://shields.ioUnicode-1.0%20to%2018.0-blue.svg)](https://unicode.org)
