@@ -3,12 +3,23 @@
 **🌐 语言 / Language / Ngôn ngữ / Язык:**  
 🇺🇸 [English](README.md) | 🇻🇳 [Tiếng Việt](README.vi.md) | 🇨🇳 **中文 (Chinese)** | 🇷🇺 [Русский (Russian)](README.ru.md)
 
-[![Live Showcase](https://shields.io🌐_在线预览与对比-4_种语言-38bdf8.svg)](https://github.io)
-[![Unicode](https://shields.ioUnicode-1.0_至_18.0-blue.svg)](https://unicode.org)
-[![Windows 11](https://shields.ioWindows_11-纯净混合版_13.59_MB-0078D6.svg)](#)
-[![Ultra HD](https://shields.ioApple_%2B_Noto-8_级超清_20→192px-818cf8.svg)](#)
-[![Android / Honor](https://shields.io荣耀_%2F_华为_MagicOS-.hwt_主题就绪-success.svg)](#)
-[![Solved Issue #3](https://shields.ioChasmical_Issue_%233-100%25_完美解决-brightgreen.svg)](https://github.com)
+![262 Flags & Unicode 18.0 Showcase](assets/full_showcase.png)
+<div align="center">
+  <p>
+    <a href="https://github.com/tuannvbg/flag-emoji-for-windows-pro/releases">
+      <img src="https://img.shields.io/github/downloads/tuannvbg/flag-emoji-for-windows-pro/total?label=Downloads&style=flat" alt="Downloads"/>
+    </a>
+    <a href="https://github.com/tuannvbg/flag-emoji-for-windows-pro/stargazers">
+      <img src="https://img.shields.io/github/stars/tuannvbg/flag-emoji-for-windows-pro?color=green&label=Stars&style=flat" alt="Stars"/>
+    </a>
+    <a href="https://github.com/tuannvbg/flag-emoji-for-windows-pro/subscription">
+      <img src="https://img.shields.io/github/watchers/tuannvbg/flag-emoji-for-windows-pro?color=green&label=Watchers&style=flat" alt="Watchers"/>
+    </a>
+    <a href="https://github.com/tuannvbg/flag-emoji-for-windows-pro/forks">
+      <img src="https://img.shields.io/github/forks/tuannvbg/flag-emoji-for-windows-pro?label=Forks&style=flat-square" alt="Forks"/>
+    </a>
+</p>
+</div>
 
 **适用于 Windows 11、Windows 10 与 Android / 荣耀 MagicOS 的全能表情字体引擎。**  
 在保留 Windows 11 原生 **3D `COLRv1`** 矢量的同时，无缝注入 **7,079+ 张高清 `CBDT/CBLC` 位图**、**全部 262 面国家与地区旗帜**、**3,136 个原生多肤色 ZWJ 序列**，以及完整的 **Unicode 17.0 & 18.0** 支持。
@@ -102,3 +113,13 @@ python make_apple_multistrike.py seguiemj_192_final.ttf Win11_Ultra8Strikes_3D.t
 
 ### 3. AI 助手
 * **Google Gemini**、**xAI Grok**、**OpenAI ChatGPT**、**ByteDance Dola AI** 以及 **Microsoft Copilot** —— 在 OpenType 二进制结构分析、多线程算法优化以及 Windows 与 Android 跨平台实机测试中提供了强有力的协助。
+
+## ⚖️ 图像版权与学术研究声明
+
+* **工具源代码 (`MIT License`)：** 本仓库中的所有 Python 构建脚本、OpenType 二进制表处理程序及网页展示代码均采用 **MIT License** 开源许可。
+* **原始表情图形版权归属：**
+  * **Windows 11 Fluent 3D Emoji** (`Segoe UI Emoji`) 图形版权归 **Microsoft Corporation** 所有。
+  * **Noto Color Emoji** 与 **Blobmoji** 图形版权归 **Google LLC** 所有（Apache 2.0 / SIL OFL）。
+  * **Twemoji** 图形版权归 **Twitter / X Corp** 及 **jdecked/twemoji** 贡献者所有（CC-BY 4.0）。
+  * **OpenMoji** 图形版权归 **OpenMoji** 所有（CC-BY-SA 4.0）。
+  * **闭源商业表情包（未来学习与技术研究兼容方向）：** 未来任何涉及兼容 **Apple Color Emoji** (Apple Inc.)、**JoyPixels** (JoyPixels Inc.)、**Samsung One UI Emoji** (Samsung Electronics)、**WhatsApp Emoji** 或 **Facebook Emoji** 的实验性工具，均**仅限用于个人学习、跨平台兼容性测试及字体工程技术研究**。所有相关商标与原始美术版权均归其各自所有者独家享有。
