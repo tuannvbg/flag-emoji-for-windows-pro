@@ -3,12 +3,12 @@
 🇺🇸 **English** | 🇻🇳 [Tiếng Việt](README.vi.md) | 🇨🇳 [中文 (Chinese)](README.zh.md) | 🇷🇺 [Русский (Russian)](README.ru.md)
 ![262 Flags & Unicode 18.0 Showcase](assets/full_showcase.png)
 
-[![Live Showcase](https://shields.io🌐_Live_Showcase-4_Languages-38bdf8.svg)](https://github.io)
-[![Unicode](https://shields.ioUnicode-1.0%20to%2018.0-blue.svg)](https://unicode.org)
-[![Windows 11](https://shields.ioWindows%2011-Pure%20Hybrid%2013.59%20MB-0078D6.svg)](#)
-[![Ultra HD](https://shields.ioApple%20%2B%20Noto-8--Strike%2020→192px-818cf8.svg)](#)
-[![Android / Honor](https://shields.ioHonor%20%2F%20Huawei%20MagicOS-.hwt%20Theme%20Ready-success.svg)](#)
-[![Solved Issue #3](https://shields.ioChasmical%20Issue%20%233-100%25%20Solved-brightgreen.svg)](https://github.com)
+[![Live Showcase](https://shields.io)](https://github.io)
+[![Unicode](https://shields.io)](https://unicode.org)
+[![Windows 11](https://shields.io)](#)
+[![Ultra HD](https://shields.io)](#)
+[![Android / Honor](https://shields.io)](#)
+[![Solved Issue #3](https://shields.io)](https://github.com)
 
 **The Ultimate All-in-One Emoji Engine for Windows 11, Windows 10 & Android / Honor MagicOS.**  
 Combines native Windows 11 **3D `COLRv1`** vectors with **7,079+ crisp `CBDT/CBLC` bitmaps**, **all 262 country & subdivision flags**, **3,136 native multi-skin-tone ZWJ sequences**, and **full Unicode 17.0 & 18.0** support in a clean, modular binary pipeline.
