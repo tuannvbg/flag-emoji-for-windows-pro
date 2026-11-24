@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+_temp*/
+release_pro4/
+*.ttf
+*.hwt
+*.zip
